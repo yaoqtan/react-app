@@ -1,0 +1,11 @@
+input{
+    margin:40px auto;
+    width: 60%;
+    height: 40px;
+    line-height: 40px;
+}
+textarea{
+    width: 60%;
+    margin:40px auto;
+    height: 100px;
+}
